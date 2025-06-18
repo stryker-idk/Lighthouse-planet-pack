@@ -39,7 +39,7 @@ All files in this mod except the special .dll file are shared under the Creative
 
 As long as you:
 
-    Give clear credit to me ([Your Name])
+    Give clear credit to me (Stryker)
 
     Link back to this original mod
 
@@ -51,7 +51,7 @@ Full license details: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
-Special Rules for the Pulsarjet.dll File
+Special Rules for the PulsarJet.dll File
 
 The custom-coded file PulsarJet.dll has different rules:
 
@@ -63,4 +63,4 @@ The custom-coded file PulsarJet.dll has different rules:
 
     The only allowed use is running it within this original mod package
 
-If you want to use this .dll file in any way (like in your own mod or for a special project), you must get my permission first. Contact me on Discord: stryker6170   (you cna also find me on the Kopernicus Discord server : https://discord.com/invite/uA69S3zZqf )
+If you want to use this .dll file in any way (like in your own mod), you must get my permission first. Contact me on Discord: stryker6170   (you can also find me on the Kopernicus Discord server : https://discord.com/invite/uA69S3zZqf )

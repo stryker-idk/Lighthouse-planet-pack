@@ -8,7 +8,7 @@ Lighthouse planet pack is a KSP planet pack that focuses around a pulsar named "
 
 ❤thanks to all of these people for making the Lighthouses particle jets work❤
 -
-**i still remember 💘**
+**i still remember 💘 (capslo)**
 
 **Linx**
 

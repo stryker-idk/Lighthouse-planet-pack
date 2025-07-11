@@ -20,7 +20,7 @@ Lighthouse planet pack is a KSP planet pack that focuses around a pulsar named "
 
 These people did most of the work (like 96,4%).
 if you use the Lighthouses Particle beam code (PulsarJet.dll) please give credit to them.
-//note: the old .dll file has been replaced with ScaledDecorator
+note: the old .dll file has been replaced with ScaledDecorator
 
 
 

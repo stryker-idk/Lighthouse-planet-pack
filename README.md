@@ -6,24 +6,6 @@ Lighthouse Planet Pack
 Lighthouse planet pack is a KSP planet pack that focuses around a pulsar named "Lighthouse". 4 Planets (3 planned, 1 in-game) inhabit the deadly environment around Lighthouse.
 
 
-❤thanks to all of these people for making the Lighthouses particle jets work❤
--
-**i still remember 💘 (capslo)**
-
-**Linx**
-
-**Proxima | Celestial Harmony**
-
-**TMSP**
-
-**Sushut | Sushut | Sushut | Sushu**
-
-These people did most of the work (like 96,4%).
-if you use the Lighthouses Particle beam code (PulsarJet.dll) please give credit to them.
-note: the old .dll file has been replaced with ScaledDecorator
-
-
-
 
 
 License and Permissions
